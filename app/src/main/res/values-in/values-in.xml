@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">FilmDicoding2</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="title_language">Language</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="name_movies">Nama Film</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+    <string-array name="data_name_movie">
+        <item> Seorang Bintang Lahir </item>
+        <item> Alita: Perang Angel </item>
+        <item> Manusia Air </item>
+        <item> Rhapsody Bohemian </item>
+        <item> Pursuit Dingin </item>
+        <item> Pengakuan </item>
+        <item> Binatang Buas Fantastis: Kejahatan Grindelwald </item>
+        <item> Kaca </item>
+        <item> Cara Melatih Naga Anda: Dunia Tersembunyi </item>
+        <item> Avengers: Perang Infinity </item>
+        <item> Mary Queen of Scots </item>
+        <item> Master Z: Warisan Ip Man </item>
+        <item> Mesin Fana </item>
+        <item> Tuan Besar </item>
+        <item> Ralph Menghancurkan Internet </item>
+        <item> Robin Hood </item>
+        <item> Ketenangan </item>
+        <item> Spider-Man: Masuk the Spider-Verse </item>
+        <item> T-34 </item>
+    </string-array>
+
+    <string-array name="data_release_movie">
+        <item>Oktober 5, 2018</item>
+        <item>January 31, 2019</item>
+        <item>December 21, 2018</item>
+        <item>October 30, 2018</item>
+        <item>February 8, 2019</item>
+        <item>November 25, 2015</item>
+        <item>November 16, 2018</item>
+        <item>January 18, 2019</item>
+        <item>February 22, 2019</item>
+        <item>April 23, 2018</item>
+        <item>November 15, 2018</item>
+        <item>April 12, 2019</item>
+        <item>December 14, 2018</item>
+        <item>September 22, 2018</item>
+        <item>November 5, 2018</item>
+        <item>November 21, 2018</item>
+        <item>January 25, 2019</item>
+        <item>December 1, 2018</item>
+        <item>December 27, 2018</item>
+    </string-array>
+
+    <string-array name="data_description_movie">
+        <item> Musisi kawakan Jackson Maine menemukan - dan jatuh cinta dengan - artis yang sedang berjuang Ally. Dia baru saja menyerah pada mimpinya untuk menjadi besar sebagai penyanyi - sampai Jack membujuknya menjadi sorotan. Tetapi bahkan ketika karier Ally lepas landas, sisi pribadi dari hubungan mereka hancur, ketika Jack berjuang terus-menerus dengan setan-setan internalnya sendiri. </item> <item>When Alita awakens with no memory of who she is in a future world she does not recognize, she is taken in by Ido, a compassionate doctor who realizes that somewhere in this abandoned cyborg shell is the heart and soul of a young woman with an extraordinary past.</item>
+        <item> Dulunya merupakan rumah bagi peradaban paling maju di Bumi, kota Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian ke permukaan dunia. Yang menghalangi jalannya adalah Aquaman, setengah manusia setengah manusia, saudara setengah Atlantis dan pewaris sejati takhta. Dengan bantuan dari penasihat kerajaan Vulko, Aquaman harus mengambil Trident Atlan yang legendaris dan merangkul takdirnya sebagai pelindung laut. </item>
+        <item> Penyanyi Freddie Mercury, gitaris Brian May, drummer Roger Taylor dan gitaris John Deacon membawa dunia musik dengan badai ketika mereka membentuk band rock and roll Queen pada tahun 1970. Lagu-lagu hit menjadi klasik instan. Ketika gaya hidup Mercury yang semakin liar mulai lepas kendali, Queen segera menghadapi tantangan terbesarnya - menemukan cara untuk menjaga band tetap bersama di tengah kesuksesan dan kelebihan. </item>
+        <item> Kehidupan tenang Nels Coxman runtuh ketika putra kesayangannya meninggal dalam keadaan misterius. Pencariannya akan kebenaran segera menjadi pencarian balas dendam saat ia mencari keadilan berdarah dingin terhadap seorang raja narkoba dan lingkaran dalamnya. </item>
+        <item> Mantan Juara Dunia Kelas Berat Rocky Balboa menjadi pelatih dan mentor bagi Adonis Johnson, putra almarhum teman dan mantan saingannya, Apollo Creed. </item>
+        <item> Gellert Grindelwald telah lolos dari hukuman penjara dan mulai mengumpulkan pengikut untuk tujuannya — meninggikan para penyihir di atas semua makhluk non-magis. Satu-satunya yang mampu menghentikannya adalah penyihir yang pernah ia sebut teman terdekatnya, Albus Dumbledore. Namun, Dumbledore perlu mencari bantuan dari penyihir yang pernah menggagalkan Grindelwald sebelumnya, mantan muridnya Newt Scamander, yang setuju untuk membantu, tidak menyadari bahaya yang ada di depan. Garis digambar saat cinta dan kesetiaan diuji, bahkan di antara teman dan keluarga yang paling sejati, di dunia penyihir yang semakin terpecah. </item>
+        <item> Dalam serangkaian pertemuan yang semakin meningkat, penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai orkestra yang menyimpan rahasia penting bagi keduanya. </item>
+        <item> Saat Hiccup memenuhi mimpinya untuk menciptakan utopia naga yang damai, penemuan Toothless tentang pasangan yang liar dan sulit ditangkap menarik Night Fury pergi. Saat bahaya memuncak di rumah dan pemerintahan Hiccup sebagai kepala desa diuji, baik naga dan pengendara harus membuat keputusan yang mustahil untuk menyelamatkan jenis mereka. </item>
+        <item> Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih pasti. </item>
+        <item> Pada tahun 1561, Mary Stuart, janda Raja Prancis, kembali ke Skotlandia, merebut kembali tahtanya yang sah dan mengancam masa depan Ratu Elizabeth I sebagai penguasa Inggris, karena ia memiliki klaim sah atas takhta Inggris. Pengkhianatan, pemberontakan, konspirasi, dan pilihan hidup mereka sendiri membahayakan Ratu. Mereka mengalami biaya kekuasaan yang pahit, sampai nasib tragis mereka akhirnya terpenuhi. </item>
+        <item> Setelah dikalahkan oleh Ip Man, Cheung Tin Chi berusaha untuk tidak menonjolkan diri. Saat menjalankan bisnisnya, ia berkelahi dengan orang asing bernama Davidson, yang merupakan bos besar di belakang bar distrik. Tin Chi berjuang keras dengan Wing Chun dan mendapatkan rasa hormat. </item>
+        <item> Beribu-ribu tahun di masa depan, kota-kota di bumi menjelajah dunia dengan roda besar, saling melahap dalam perjuangan untuk sumber daya yang semakin berkurang. Di salah satu kota traksi besar ini, London tua, Tom Natsworthy mengalami perjumpaan tak terduga dengan seorang wanita muda misterius dari daerah terlantar yang akan mengubah jalan hidupnya selamanya. </item>    <item>France, World War II, June 1944. On the eve of D-Day, some American paratroopers fall behind enemy lines after their plane crashes during a mission consisting of destroying a German radio tower in Cielblanc, a small village near the beaches of Normandy. After reaching their target, the surviving paratroopers realize that, in addition to fighting Nazi troops that patrol the village, they also must fight against something else.</item>
+        <item> Orang jahat di video game, Ralph dan rekannya yang tidak sesuai, Vanellope von Schweetz harus mengambil risiko dengan bepergian ke World Wide Web untuk mencari bagian pengganti untuk menyelamatkan video game Vanellope, "Sugar Rush." Di atas kepala mereka, Ralph dan Vanellope mengandalkan warga internet - netizen - untuk membantu menavigasi jalan mereka, termasuk seorang pengusaha bernama Yesss, yang merupakan algoritma kepala dan jantung dan jiwa dari situs pembuat tren BuzzzTube . </item>   <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item> Baker Dill adalah kapten kapal nelayan yang memimpin tur di daerah tropis yang tenang yang disebut Pulau Plymouth. Namun, kehidupannya yang tenang hancur, ketika mantan istrinya, Karen, melacaknya dengan permohonan putus asa untuk meminta bantuan. </item> <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+        <item> Pada tahun 1944, sekelompok tentara Rusia yang berani berhasil melarikan diri dari penawanan Jerman di tank T-34 legendaris yang setengah hancur. Itu adalah masa-masa keberanian yang tak terlupakan, pertarungan sengit, cinta yang tak terpatahkan, dan mukjizat legendaris. </item>    </string-array>
+
+
+    <array name="data_photo_movie">
+        <item>@drawable/poster_movie_a_start_is_born</item>
+        <item>@drawable/poster_movie_alita</item>
+        <item>@drawable/poster_movie_aquaman</item>
+        <item>@drawable/poster_movie_bohemian</item>
+        <item>@drawable/poster_movie_cold_persuit</item>
+        <item>@drawable/poster_movie_creed</item>
+        <item>@drawable/poster_movie_crimes</item>
+        <item>@drawable/poster_movie_glass</item>
+        <item>@drawable/poster_movie_how_to_train</item>
+        <item>@drawable/poster_movie_infinity_war</item>
+        <item>@drawable/poster_movie_marry_queen</item>
+        <item>@drawable/poster_movie_master_z</item>
+        <item>@drawable/poster_movie_mortal_engines</item>
+        <item>@drawable/poster_movie_overlord</item>
+        <item>@drawable/poster_movie_ralph</item>
+        <item>@drawable/poster_movie_robin_hood</item>
+        <item>@drawable/poster_movie_serenity</item>
+        <item>@drawable/poster_movie_spiderman</item>
+        <item>@drawable/poster_movie_t34</item>
+    </array>
+
+    <string-array name="data_name_tv">
+        <item> Panah </item>
+        <item> Patroli doom </item>
+        <item> Bola Naga </item>
+        <item> Peri Ekor </item>
+        <item> Keluarga Cowok </item>
+        <item> Kilat </item>
+        <item> Pemakan Tuhan </item>
+        <item> Gotham </item>
+        <item> Anatomi Gray </item>
+        <item> Hanna </item>
+        <item> Tangan besi Marvel </item>
+        <item> Naruto Shippūden </item>
+        <item> NCIS </item>
+        <item> Riverdale </item>
+        <item> Tidak Tahu Malu </item>
+        <item> Supergirl </item>
+        <item> Supernatural </item>
+        <item> The Simpsons </item>
+        <item> Akademi Payung </item>
+        <item> Orang Mati Berjalan </item>
+    </string-array>
+
+    <string-array name="data_release_tv">
+        <item>Oktober 15, 2018</item>
+        <item>January 31, 2019</item>
+        <item>February 26, 1986</item>
+        <item>October 7, 2018</item>
+        <item>May 21, 2006</item>
+        <item>October 9, 2018</item>
+        <item>July 12, 2015</item>
+        <item>August 18, 2014</item>
+        <item>September 27, 2018</item>
+        <item>March 28, 2019</item>
+        <item>March 17, 2017</item>
+        <item>August 2, 2008</item>
+        <item>September 25, 2018</item>
+        <item>October 10, 2018</item>
+        <item>December 12, 2010</item>
+        <item>October 26, 2015</item>
+        <item>October 11, 2018</item>
+        <item>December 17, 1989</item>
+        <item>February 15, 2019</item>
+        <item>October 31, 2010</item>
+    </string-array>
+
+    <string-array name="data_description_tv">
+        <item> Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai penjahat berkerudung yang dipersenjatai dengan busur. </item>
+        <item> Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan. </item>  <item>Long ago in the mountains, a fighting master known as Gohan discovered a strange boy whom he named Goku. Gohan raised him and trained Goku in martial arts until he died. The young and very strong boy was on his own, but easily managed. Then one day, Goku met a teenage girl named Bulma, whose search for the dragon balls brought her to Goku\'s home. Together, they set off to find all seven dragon balls in an adventure that would change Goku\'s life forever. See how Goku met his life long friends Bulma, Yamcha, Krillin, Master Roshi and more. And see his adventures as a boy, all leading up to Dragonball Z and later Dragonball GT.</item>
+        <item> Lucy adalah gadis berusia 17 tahun, yang ingin menjadi penyihir penuh. Suatu hari ketika mengunjungi Kota Harujion, dia bertemu Natsu, seorang pemuda yang mudah sakit karena segala jenis transportasi. Tapi Natsu bukan sembarang anak biasa, dia anggota dari salah satu serikat penyihir paling terkenal di dunia: Fairy Tail. </item>      <item>Sick, twisted, politically incorrect and Freakin\' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he\'s not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.</item>
+        <item> Setelah akselerator partikel menyebabkan badai hebat, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia bangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi itu tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen ... The Flash. </item>  <item>In the early 2050s, unknown life forms called “Oracle cells” begin their uncontrolled consumption of all life on Earth. Their ravenous appetite and remarkable adaptability earn them first dread, then awe, and finally the name “aragami”. In the face of an enemy completely immune to conventional weapons, urban civilization collapses, and each day humanity is driven further and further toward extinction. One single ray of hope remains for humanity. Following the development of “God Arcs”—living weapons which incorporate Oracle cells—their wielders are organized into an elite force.</item>
+        <item> Mengikuti kehidupan pribadi dan profesional sekelompok dokter di Rumah Sakit Gray Sloan Memorial Seattle /. </item>   <item>This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.</item>
+
+        <item> Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya. </item>     <item>Naruto Shippuuden is the continuation of the original animated TV series Naruto.The story revolves around an older and slightly more matured Uzumaki Naruto and his quest to save his friend Uchiha Sasuke from the grips of the snake-like Shinobi, Orochimaru. After 2 and a half years Naruto finally returns to his village of Konoha, and sets about putting his ambitions to work, though it will not be easy, as He has amassed a few (more dangerous) enemies, in the likes of the shinobi organization; Akatsuki.</item>
+        <item> Dari pembunuhan dan spionase hingga terorisme dan kapal selam curian, tim agen khusus menyelidiki kejahatan apa pun yang memiliki sedikit bukti yang terhubung dengan personel Korps Angkatan Laut dan Korps Marinir, terlepas dari pangkat atau jabatannya. </item>     <item>Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale\’s wholesome facade.</item>
+        <item> Chicagoan Frank Gallagher adalah ayah tunggal yang bangga dari enam anak yang cerdas, rajin, mandiri, yang tanpa dia akan ... mungkin lebih baik. Ketika Frank tidak di bar menghabiskan sedikit uang yang mereka miliki, dia pingsan di lantai. Tetapi anak-anak telah menemukan cara untuk tumbuh meskipun dia. Mereka mungkin tidak seperti keluarga yang Anda kenal, tetapi mereka tidak meminta maaf karena menjadi siapa mereka sebenarnya. </item>      <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item> Ketika mereka masih kecil, Sam dan Dean Winchester kehilangan ibu mereka karena kekuatan gaib yang misterius dan iblis. Selanjutnya, ayah mereka membesarkan mereka menjadi tentara. Dia mengajari mereka tentang kejahatan paranormal yang hidup di sudut-sudut gelap dan di jalan belakang Amerika ... dan dia mengajari mereka cara membunuhnya. Sekarang, saudara-saudara Winchester menjelajahi negara itu dengan Chevy Impala mereka, melawan semua jenis ancaman supranatural yang mereka temui di sepanjang jalan. </item>      <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item> Keluarga superhero yang disfungsional berkumpul untuk memecahkan misteri kematian ayah mereka, ancaman kiamat, dan banyak lagi. </item>
+        <item> Keluarga superhero yang disfungsional berkumpul untuk memecahkan misteri kematian ayah mereka, ancaman kiamat, dan banyak lagi. </item>
+        <item> Wakil Sheriff Rick Grimes terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu dengan banyak penyintas lainnya di sepanjang jalan. </item>
+    </string-array>
+
+
+    <array name="data_photo_tv">
+        <item>@drawable/poster_tv_arrow</item>
+        <item>@drawable/poster_tv_doom_patrol</item>
+        <item>@drawable/poster_tv_dragon_ball</item>
+        <item>@drawable/poster_tv_fairytail</item>
+        <item>@drawable/poster_tv_family_guy</item>
+        <item>@drawable/poster_tv_flash</item>
+        <item>@drawable/poster_tv_god</item>
+        <item>@drawable/poster_tv_gotham</item>
+        <item>@drawable/poster_tv_grey_anatomy</item>
+        <item>@drawable/poster_tv_hanna</item>
+        <item>@drawable/poster_tv_iron_fist</item>
+        <item>@drawable/poster_tv_naruto_shipudden</item>
+        <item>@drawable/poster_tv_ncis</item>
+        <item>@drawable/poster_tv_riverdale</item>
+        <item>@drawable/poster_tv_shameless</item>
+        <item>@drawable/poster_tv_supergirl</item>
+        <item>@drawable/poster_tv_supernatural</item>
+        <item>@drawable/poster_tv_the_simpson</item>
+        <item>@drawable/poster_tv_the_umbrella</item>
+        <item>@drawable/poster_tv_the_walking_dead</item>
+    </array>
+
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
